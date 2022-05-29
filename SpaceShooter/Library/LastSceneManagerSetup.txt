@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Galaxy Shooter/_Scenes/Co-Op_Mode.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
